@@ -1,4 +1,4 @@
-module github.com/sters/go-project-boilerplate
+module github.com/sters/go-func-middleware
 
 go 1.16
 
